@@ -1,0 +1,7 @@
+# This is the top level .clang-format.
+# For now we will not enforce any rules and therefore disabling formatting.
+DisableFormat: true
+
+# It is funny that one still has to define not to sort includes as disabling
+# the formatting is not enough.
+SortIncludes: false
