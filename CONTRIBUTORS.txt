@@ -1,0 +1,23 @@
+====
+Team
+====
+
+As the project was developed before open sourcing names who pushed the original 
+files don't correlate with actual developers the team had.
+
+Project Leads
+=============
+
+* Tapio Finnilä
+
+Developers / contributors
+===================
+Aki Suihkonen
+Sami Järvinen
+Lasse Lampinen
+Petteri Kyrönlahti
+Markus Laine
+Janne Sangi
+Kalle Aalto
+Tuukka Mäkinen
+Sahar Husseini
