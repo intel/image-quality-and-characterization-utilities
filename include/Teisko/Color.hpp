@@ -445,6 +445,7 @@ namespace Teisko
             {
             case rgb_cs::BT601:
                 conversion_matrix = _xyz2rgb_BT601;
+                break;
             case rgb_cs::BT709:
             case rgb_cs::sRGB:
                 conversion_matrix = _xyz2rgb_BT709;
@@ -639,6 +640,7 @@ namespace Teisko
             {
             case rgb_cs::BT601:
                 conversion_matrix = _rgb2xyz_BT601;
+                break;
             case rgb_cs::BT709:
             case rgb_cs::sRGB:
                 conversion_matrix = _rgb2xyz_BT709;
